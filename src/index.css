@@ -1,0 +1,42 @@
+body {
+  font-family: sans-serif;
+  background-color: whitesmoke;
+}
+
+.bye {
+  /* background-color: azure; */
+  width: 50%;
+  height: 150px;
+  color: purple;
+  padding: 1rem;
+  border-radius: 2rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 2rem;
+}
+hr {
+  width: 10%;
+  margin: 0;
+}
+.bye2 {
+  /* background-color: azure; */
+  width: 50%;
+  height: 150px;
+  color: purple;
+  padding: 1rem;
+  border-radius: 2rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 2rem;
+  /* float: right; */
+}
+
+h1 {
+  color: purple;
+}
+.go{
+  background-color:black;
+  padding:0.15rem;
+  color: aliceblue;
+  border-radius: 2rem;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin: 2rem;
+}
